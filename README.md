@@ -1,3 +1,5 @@
+All credits to Mirei83m, as I only updated his work with latest dep version : https://github.com/mirei83/vechain-deploy
+
 Quick Installscript for VeChain Testnet Node
 ==================
 
@@ -12,7 +14,7 @@ This is just a simple installscript to test the Vechain Code. Do not use this fo
 This Script is tested on Debian 8/9 64bit and Ubuntu 16.04/17.10/18.04 64bit. Execute this from shell:
 
 ```shell
-curl -sSL https://raw.githubusercontent.com/mirei83/vechain-deploy/master/Deploy_Testnet.sh | bash
+curl -sSL https://github.com/Laethageal/vechain-deploy/blob/master/Deploy_Testnet.sh | bash
 ```
 
 2.) Make it AutoStart (optional)
