@@ -26,7 +26,7 @@ echo "########################"
 echo "Installing dep"
 echo "########################"
 cd /usr/local/bin/
-wget https://github.com/golang/dep/releases/download/v0.3.2/dep-linux-amd64
+wget https://github.com/golang/dep/releases/download/v0.4.1/dep-linux-amd64
 ln -s dep-linux-amd64 dep
 chmod +x /usr/local/bin/*
 
